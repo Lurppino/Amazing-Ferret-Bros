@@ -16,7 +16,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - platorms
   - 
   - 
   - 
@@ -40,6 +40,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4187146295
+    locked: 0
+  - name: platform
+    uniqueID: 2555962849
     locked: 0
   m_RenderingLayers:
   - Default
