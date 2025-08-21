@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      otter_idle_2_0: 9002192580955168732
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

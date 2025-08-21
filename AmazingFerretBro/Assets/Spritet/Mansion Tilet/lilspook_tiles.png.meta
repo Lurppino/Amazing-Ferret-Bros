@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lilspook_tiles_0: 3616694633974354519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

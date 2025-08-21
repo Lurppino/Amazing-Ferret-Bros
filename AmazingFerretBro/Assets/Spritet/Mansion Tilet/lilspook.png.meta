@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lilspook_0: -7022752680155707164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

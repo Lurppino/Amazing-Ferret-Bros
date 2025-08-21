@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      otter_spin_2_0: -8516911175277165465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

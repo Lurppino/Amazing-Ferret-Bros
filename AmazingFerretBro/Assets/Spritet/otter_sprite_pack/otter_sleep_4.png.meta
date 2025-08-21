@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      otter_sleep_4_0: -7067307841305192027
+      otter_sleep_4_1: -2741963225655078800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      otter_jump_1_0: -7669491207489963556
+      otter_jump_1_1: 3392821775666353780
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
