@@ -6,6 +6,8 @@ public class PlayerController : MonoBehaviour
     public float moveSpeed = 5f;
     public float jumpForce = 10f;
 
+    [SerializeField] private Animator animator;
+
     private Rigidbody2D rb;
     private bool isGrounded;
 
@@ -22,6 +24,17 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKey(KeyCode.D)) moveInput = 1f;
 
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+
+        // --- Animation ---
+
+        if (moveInput != 0)
+        {
+            animator.SetBool("IsRunning", true);
+        }
+        else
+        {
+            animator.SetBool("IsRunning", false);
+        }
 
         // --- Jump ---
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
