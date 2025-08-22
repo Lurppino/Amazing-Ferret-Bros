@@ -48,5 +48,8 @@ TagManager:
   - name: platform
     uniqueID: 2555962849
     locked: 0
+  - name: spikes
+    uniqueID: 3598390697
+    locked: 0
   m_RenderingLayers:
   - Default
