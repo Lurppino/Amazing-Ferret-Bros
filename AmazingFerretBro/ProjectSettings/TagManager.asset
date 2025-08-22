@@ -20,7 +20,7 @@ TagManager:
   - platorms
   - 
   - 
-  - 
+  - player
   - 
   - 
   - 
@@ -50,6 +50,9 @@ TagManager:
     locked: 0
   - name: spikes
     uniqueID: 3598390697
+    locked: 0
+  - name: Player
+    uniqueID: 3053553105
     locked: 0
   m_RenderingLayers:
   - Default
