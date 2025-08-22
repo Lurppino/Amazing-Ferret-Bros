@@ -297,6 +297,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1809,7 +1822,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ferret Sprite Sheet 1_0: -4687975403595110423
+      Ferret Sprite Sheet 1_1: -3847985094046181409
+      Ferret Sprite Sheet 1_10: -8444868602769410624
+      Ferret Sprite Sheet 1_11: 5508838214001817735
+      Ferret Sprite Sheet 1_12: -5774770689337164174
+      Ferret Sprite Sheet 1_13: -792066249680710753
+      Ferret Sprite Sheet 1_14: -7793660315229907453
+      Ferret Sprite Sheet 1_15: -8613510470724780684
+      Ferret Sprite Sheet 1_16: 2937229500785525098
+      Ferret Sprite Sheet 1_17: 3802802684467648717
+      Ferret Sprite Sheet 1_18: 3773921891557813100
+      Ferret Sprite Sheet 1_19: 2950013341948574795
+      Ferret Sprite Sheet 1_2: -6903612757610517177
+      Ferret Sprite Sheet 1_20: 137613752788984563
+      Ferret Sprite Sheet 1_21: -3397198160591488555
+      Ferret Sprite Sheet 1_22: -7512333324366560169
+      Ferret Sprite Sheet 1_23: -6356830623066573314
+      Ferret Sprite Sheet 1_24: 3243536745341275918
+      Ferret Sprite Sheet 1_25: 7420638727136130706
+      Ferret Sprite Sheet 1_26: 1287197147415140969
+      Ferret Sprite Sheet 1_27: 7254851618489913803
+      Ferret Sprite Sheet 1_28: -504387899841758703
+      Ferret Sprite Sheet 1_29: -506155802878995069
+      Ferret Sprite Sheet 1_3: 1206766597094536781
+      Ferret Sprite Sheet 1_30: 2219818342229217913
+      Ferret Sprite Sheet 1_31: -6871616508023403534
+      Ferret Sprite Sheet 1_32: 3020906496778362001
+      Ferret Sprite Sheet 1_33: 8842414949955093848
+      Ferret Sprite Sheet 1_34: 6484145170992321434
+      Ferret Sprite Sheet 1_35: 2068401113525224957
+      Ferret Sprite Sheet 1_36: 5731194598856353913
+      Ferret Sprite Sheet 1_37: -8520916513698331592
+      Ferret Sprite Sheet 1_38: 2869002300193271328
+      Ferret Sprite Sheet 1_39: 7712222562564770885
+      Ferret Sprite Sheet 1_4: 6772811686489901038
+      Ferret Sprite Sheet 1_40: -1201710865067889357
+      Ferret Sprite Sheet 1_41: -7967438897044631715
+      Ferret Sprite Sheet 1_42: 2358075287513067007
+      Ferret Sprite Sheet 1_43: 8410943495952990241
+      Ferret Sprite Sheet 1_44: -23853959372411940
+      Ferret Sprite Sheet 1_45: -7819820297084772352
+      Ferret Sprite Sheet 1_46: -8312920274936046374
+      Ferret Sprite Sheet 1_47: 6965897115466350815
+      Ferret Sprite Sheet 1_48: 4554318925170637989
+      Ferret Sprite Sheet 1_49: 5917753277585734568
+      Ferret Sprite Sheet 1_5: 3197007269186473112
+      Ferret Sprite Sheet 1_50: 6832057563958092607
+      Ferret Sprite Sheet 1_51: 4889569978682942784
+      Ferret Sprite Sheet 1_52: -398894190996068143
+      Ferret Sprite Sheet 1_53: 1779187912300715037
+      Ferret Sprite Sheet 1_54: 7248208570441094116
+      Ferret Sprite Sheet 1_55: 598329006658553132
+      Ferret Sprite Sheet 1_56: 1330631089593978440
+      Ferret Sprite Sheet 1_57: -8514887043262823812
+      Ferret Sprite Sheet 1_58: -3117772100117787168
+      Ferret Sprite Sheet 1_59: -6448263206556713205
+      Ferret Sprite Sheet 1_6: -358642727506359995
+      Ferret Sprite Sheet 1_60: 2294259117459149707
+      Ferret Sprite Sheet 1_61: -4135835501224716397
+      Ferret Sprite Sheet 1_62: 7756339610323990473
+      Ferret Sprite Sheet 1_63: -2264956099601637696
+      Ferret Sprite Sheet 1_64: -8113794094207009818
+      Ferret Sprite Sheet 1_65: 6796743719382751841
+      Ferret Sprite Sheet 1_66: 8778826029435573582
+      Ferret Sprite Sheet 1_67: 2170747361494796042
+      Ferret Sprite Sheet 1_7: -1581141811840372932
+      Ferret Sprite Sheet 1_8: 8219311963723682008
+      Ferret Sprite Sheet 1_9: -1709687841157412824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
