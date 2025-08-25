@@ -52,6 +52,9 @@ TagManager:
   - name: spikes
     uniqueID: 3598390697
     locked: 0
+  - name: Items
+    uniqueID: 4292936885
+    locked: 0
   - name: Player
     uniqueID: 3053553105
     locked: 0
